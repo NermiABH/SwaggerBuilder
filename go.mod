@@ -1,4 +1,4 @@
-module SwaggerBuilder
+module github.com/NermiABH/SwaggerBuilder
 
 go 1.22.2
 
